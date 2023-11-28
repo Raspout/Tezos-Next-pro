@@ -1,6 +1,6 @@
 # Tezos next protocol script
 
-Simple Python script to show when current proposal will finish
+Simple Python script to show when current proposal finishes
 
 ## Install requirements
 
